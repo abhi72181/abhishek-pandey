@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhishek-pandey/static/css/main.90116585.css",
+    "main.js": "/abhishek-pandey/static/js/main.5a0efd57.js",
+    "static/js/787.1ed0c42c.chunk.js": "/abhishek-pandey/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/abhishek-pandey/index.html",
+    "main.90116585.css.map": "/abhishek-pandey/static/css/main.90116585.css.map",
+    "main.5a0efd57.js.map": "/abhishek-pandey/static/js/main.5a0efd57.js.map",
+    "787.1ed0c42c.chunk.js.map": "/abhishek-pandey/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90116585.css",
+    "static/js/main.5a0efd57.js"
+  ]
+}
